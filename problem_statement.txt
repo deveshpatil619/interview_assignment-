@@ -1,0 +1,10 @@
+We would like to offer you a task to complete regarding multi-class image classification and captioning without using Tensorflow, Keras, or sklearn. 
+We expect your code to be of high quality, with a professional and clean coding style, and well-documented to aid in its readability and maintenance.
+ We remind you that any form of plagiarism will not be tolerated and will result in your disqualification.
+
+Your code should be thoroughly tested to ensure that it works as intended. Please provide a detailed explanation of how your program works and how you 
+approached the problem. Additionally, we require you to upload your code to a Github repository and provide us with access to it. We also request that you 
+record a video proof for your code and approach to the problem.
+
+Please note that the deadline for this task is seven (7) days from the date of this email. If you have any questions or require further clarification, 
+please do not hesitate to reach out to us. We look forward to receiving your submission.
